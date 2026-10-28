@@ -1,0 +1,9 @@
+{
+  "missingProvider": true,
+  "context": true,
+  "followup": true,
+  "progressUnchanged": true,
+  "mobile": true,
+  "liveAI": false,
+  "providerTests": "mocked transport, not live inference"
+}

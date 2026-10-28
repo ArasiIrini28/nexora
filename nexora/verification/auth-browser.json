@@ -1,0 +1,17 @@
+{
+  "mode": "explicitly mocked provider/API transport",
+  "liveSupabase": false,
+  "registration": true,
+  "duplicateUsername": true,
+  "invalidCredentials": true,
+  "usernameAndEmailLogin": true,
+  "logout": true,
+  "accountIsolation": true,
+  "guestPreserved": true,
+  "progressRestored": true,
+  "profileUpdate": true,
+  "passwordVisibility": true,
+  "noPasswordStorage": true,
+  "mobile": true,
+  "consoleErrors": []
+}

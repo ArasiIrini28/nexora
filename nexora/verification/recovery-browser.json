@@ -1,0 +1,7 @@
+{
+  "missingCredentials": true,
+  "recoveryUI": true,
+  "resetUI": true,
+  "transport": "explicitly mocked",
+  "liveEmailDelivery": false
+}

@@ -1,0 +1,8 @@
+{
+  "buildRuntime": true,
+  "frontendAssets": true,
+  "privateEnvBlocked": true,
+  "missingAICredentials": 503,
+  "missingAuthCredentials": 503,
+  "liveProviders": false
+}

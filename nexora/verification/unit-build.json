@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "unit_tests": 107,
+  "passed": 107,
+  "failed": 0,
+  "build": "passed",
+  "liveSupabase": false,
+  "liveAI": false,
+  "typecheck": "not configured (JavaScript project)",
+  "lint": "not configured"
+}
